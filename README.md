@@ -2,7 +2,7 @@
 
 Link to the app: https://mohammadasifchowdhury.shinyapps.io/RFMcalculator/
 
-Rpubs presentation link: https://rpubs.com/MohammadAsifChowdhury/RFMCalculator
+Rpubs presentation link: https://rpubs.com/MohammadAsifChowdhury/Presentation
 
 Group Members:  
 Mohammad Asif Chowdhury(S2029079/1)  
